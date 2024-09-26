@@ -10,7 +10,7 @@ bot = discord.Bot()
 
 last_advanced_id = None
 
-chan_id = 1288833343252856832
+chan_id = 0 #원하는 채널 ID 복사 후 붙여넣기
 
 def Advanced():
     url = "https://data.ninjakiwi.com/btd6/challenges/filter/daily"
