@@ -53,6 +53,6 @@ async def on_ready():
 
 @bot.slash_command(name="ping", description="서버의 핑을 측정합니다.")
 async def ping(ctx: discord.ApplicationContext):
-    await ctx.respond("교주님!")
+    await ctx.respond("Pong!")
 
 bot.run(os.getenv('TOKEN')) # run the bot with the token
