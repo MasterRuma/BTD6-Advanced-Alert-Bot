@@ -15,4 +15,4 @@ RUN python3 -m venv /app/venv && \
     /app/venv/bin/pip install -r /app/requirements.txt
 
 # 5. index.py 실행
-CMD ["/app/venv/bin/python", "/app/index.py"]
+CMD ["/app/venv/bin/python", "/app/app.py"]
