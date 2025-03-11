@@ -12,7 +12,7 @@
 
 ```
 TOKEN=<Your Token Is Here>
-chan_id=<Your channel ID is here
+chan_id=<Your channel ID is here>
 ```
 
 ``` shell
