@@ -11,8 +11,8 @@
 디스코드 봇 토큰과 보내고 싶은 채널 ID 준비 후 `.env`파일에 다음과 같이 작성
 
 ```
-TOKEN=<Your Token Is Here>
-chan_id=<Your channel ID is here>
+TOKEN = <Your Token Is Here>
+CHAN_ID = <Your Channel ID Is Here>
 ```
 
 ``` shell
@@ -20,12 +20,11 @@ pip install -r requirements.txt
 python index.py
 ```
 
-### DEMO
+### 예시
 
 #### 블럭 1
 
 ![image](https://github.com/user-attachments/assets/58e47268-4b98-4263-b4a9-716919a31712)
-
 
 #### 블럭 2
 
