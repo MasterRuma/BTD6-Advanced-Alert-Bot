@@ -1,6 +1,6 @@
 # BTD6-Advanced-Alert-Bot
 
-### Oracle Cloud -> HuggingFace로 호스팅 이전합니다.
+### 해당 repo 는 2025년 3월 11일 이후로 테스트가 진행이 되지 않았습니다. 사용하시기 전 테스트 한번씩 부탁드리며 수정사항이 생길 경우에는 Issues 에 남겨주시면 감사하겠습니다. 
 <hr>
 
 ### 개요
@@ -17,7 +17,7 @@ CHAN_ID = <Your Channel ID Is Here>
 
 ``` shell
 pip install -r requirements.txt
-python index.py
+python app.py
 ```
 
 ### 예시
