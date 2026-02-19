@@ -87,6 +87,7 @@ heros = {
     "Geraldo": None,
     "Corvus": None,
     "Rosalia": None,
+    "Silas": None,
 }
 
 towers = {
@@ -485,3 +486,4 @@ async def ping(ctx: discord.ApplicationContext):
 
 
 bot.run(os.environ.get("TOKEN"))
+
